@@ -1,4 +1,4 @@
-# voting
+# Voting
 
 A new Flutter project.
 
